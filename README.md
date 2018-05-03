@@ -3,3 +3,11 @@ Some scripts for my home server. I wouldn't recomend downloading any of these sc
 as most of them are customized for my server and assume various (and occasionally conflicting) things.
 
 However, I've included references to each of the scripts.
+
+## Server specs
+OS:  Ubuntu 18.04 Beta 2
+CPU: Intel i5-6600k
+GPU: Nvidia GTX 1080 (Proprietary Drivers)
+RAM: 16GB
+HDD: 1TB
+SSD: 250GB
