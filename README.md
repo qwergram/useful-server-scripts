@@ -5,9 +5,15 @@ as most of them are customized for my server and assume various (and occasionall
 However, I've included references to each of the scripts.
 
 ## Server specs
-OS:  Ubuntu 18.04 Beta 2
-CPU: Intel i5-6600k
-GPU: Nvidia GTX 1080 (Proprietary Drivers)
-RAM: 16GB
-HDD: 1TB
-SSD: 250GB
+```
++------+---------------------------------------+
+| PART | NAME                                  | 
++------+---------------------------------------+
+| OS   | Ubuntu 18.04 Beta 2                   |
+| CPU  | Intel i5-6600k                        |
+| GPU  | Nvidia GTX 1080 (Proprietary Drivers  |
+| RAM  | 16GB                                  |
+| HDD  | 1TB                                   |
+| SSD  | 250GB                                 |
++------+---------------------------------------+
+```
