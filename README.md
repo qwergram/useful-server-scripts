@@ -1,8 +1,7 @@
 # useful-server-scripts
-Some scripts for my home server. I wouldn't recomend downloading any of these scripts and running them, 
-as most of them are customized for my server and assume various (and occasionally conflicting) things.
+Some scripts for my home server. This is mostly the common "what did I do to set that up" question I've been asking myself recently. I wouldn't recomend downloading any of these scripts and running them, as most of them are customized for my server and assume various (and occasionally conflicting) things. Use em at your own risk.
 
-However, I've included references to each of the scripts.
+In each script contains a couple of links where I ripped the instructions from.
 
 ## Server specs
 ```
